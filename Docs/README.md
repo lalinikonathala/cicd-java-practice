@@ -10,7 +10,7 @@ and Docker.
 
 ------------------------------------------------------------------------
 
-## 1. What is CI/CD?
+### 1. What is CI/CD?
 
 ### Continuous Integration (CI)
 
