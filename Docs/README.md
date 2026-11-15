@@ -588,7 +588,7 @@ For the test to run, the JUnit dependency and a compatible Maven test
 plugin/configuration must be present in `pom.xml`.
 
 A successful Docker run does not prove that JUnit tests passed. Use
-`mvn test` or `mvn clean verify` to run the tests.
+`mvn test` or `mvn clean verify` to run the tests
 
 ------------------------------------------------------------------------
 
